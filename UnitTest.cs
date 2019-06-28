@@ -44,7 +44,7 @@ namespace UnitTestProject1
 
         }
         
-        [TestMethod]
+        
       
         [ClassInitialize]
         public static void loadForm(TestContext context)
